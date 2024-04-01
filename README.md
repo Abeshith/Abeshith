@@ -18,7 +18,7 @@ style="border-radius: 50;">
 
 🤝 I’m looking for help with realtime data projects
 
-🌱 I’m currently learning ineuron full stack datascience course 
+🌱 I’m currently learning ineuron's full stack datascience course 
 
 📫 Reach me by abheshith7@gmail.com
 <br/>
