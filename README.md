@@ -21,7 +21,7 @@ Passionate student deeply intrigued by:
 
 ### 📚 **Education:**
 
-Currently pursuing Data Science at MGR University | Chennai.
+Currently pursuing Data Science | AI at MGR University | Chennai.
 
 ### 💻 **Projects:**
 
