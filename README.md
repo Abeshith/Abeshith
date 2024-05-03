@@ -21,7 +21,7 @@ Passionate student deeply intrigued by:
 
 ### 📚 **Education:**
 
-Currently pursuing [Your Major or Field of Study] at [Your University/Institution].
+Currently pursuing Data Science at MGR University | Chennai.
 
 ### 💻 **Projects:**
 
