@@ -49,10 +49,9 @@ Excited to collaborate and learn together!
   <a href="https://abeshith-portfolio.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-   <a href="https://www.kaggle.com/yourusername" target="_blank">
+  <a href="https://www.kaggle.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=blue" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle Logo" height="28">
-</a>
+</a> 
 
 
 </div>
