@@ -67,7 +67,7 @@ Excited to collaborate and learn together!
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,sklearn,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=python,html,css,sklearn,tensorflow,java" /><br>
     <img src="https://skillicons.dev/icons?i=docker,git,r,mysql,flask,redhat,github" /><br>
 </div>
 
