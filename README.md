@@ -68,7 +68,7 @@ Excited to collaborate and learn together!
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,html,css,sklearn,tensorflow,java" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,git,r,mysql,flask,redhat,github" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,git,r,mysql,flask,redhat,github,postman" /><br>
 </div>
 
 <br/>
