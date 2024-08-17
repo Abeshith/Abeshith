@@ -60,8 +60,9 @@ Excited to collaborate and learn together!
 </a> 
 
 <a href="https://www.geeksforgeeks.org/user/abheshgnv4/" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=GeeksforGeeks&query=solvedOverTotal&url=https%3A%2F%2Fgeeks-for-geeks-badge.vercel.app%2Fapi%2Fusers%2Fyour_username_here&logo=geeksforgeeks&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
 </a>
+
 
 
 
