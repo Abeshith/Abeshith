@@ -59,7 +59,7 @@ Excited to collaborate and learn together!
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbeshith&logo=leetcode&logoColor=yellow" />
 </a> 
 
-<a href="https://auth.geeksforgeeks.org/user/your_username_here/" target="_blank">
+<a href="https://www.geeksforgeeks.org/user/abheshgnv4/" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=GeeksforGeeks&query=solvedOverTotal&url=https%3A%2F%2Fgeeks-for-geeks-badge.vercel.app%2Fapi%2Fusers%2Fyour_username_here&logo=geeksforgeeks&logoColor=yellow" />
 </a>
 
