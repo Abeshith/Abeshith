@@ -34,7 +34,7 @@ Additionally, I have been exploring Docker 🐳 for containerization and Kuberne
   Browse my GeeksforGeeks profile to see my problem-solving skills in data structures, algorithms, and more. 🎓
 
 
-## Tools and Technologies 🛠️:
+## Technologies I Work With 💻:
 **LANGUAGES**  
 <div>
     <img src="https://skillicons.dev/icons?i=python,java,cs," /><br>
