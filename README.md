@@ -1,4 +1,3 @@
-
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abeshith+👽;" />
 </h1>
@@ -64,7 +63,7 @@ Additionally, I have been exploring Docker 🐳 for containerization and Kuberne
   
   <img src="https://ai-infrastructure.org/wp-content/uploads/2022/08/ZenML-Logo.png" alt="Astronomer" height="40" style="background:white; padding:6px; border-radius:6px;" title="Astronomer" />
 
-  <img src="https://image.pngaaa.com/258/4991258-middle.png" alt="Astronomer" height="40" style="background:white; padding:6px; border-radius:6px;" title="Astronomer" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*o90n2p_UHHMTr5vV9JgBWw.jpeg" alt="Astronomer" height="40" style="background:white; padding:6px; border-radius:6px;" title="Astronomer" />
 
   
 </div></br>
@@ -81,10 +80,10 @@ Additionally, I have been exploring Docker 🐳 for containerization and Kuberne
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" alt="Jenkins" height="40" style="background:white; padding:6px; border-radius:6px;" title="Jenkins" />
 
   <!-- GitHub Actions -->
-  <img src="https://miro.medium.com/v2/resize:fit:1000/1*ookyGlsTh-UT0YBUwdTLSA.png" alt="GitHub Actions" height="40" style="background:white; padding:6px; border-radius:6px;" title="GitHub Actions" />
+  <img src="https://me-dutour-mathieu.gallerycdn.vsassets.io/extensions/me-dutour-mathieu/vscode-github-actions/3.0.1/1596182639279/Microsoft.VisualStudio.Services.Icons.Default" alt="GitHub Actions" height="40" style="background:white; padding:6px; border-radius:6px;" title="GitHub Actions" />
 
   <!-- GitHub -->
-  <img src="https://toppng.com/uploads/preview/github-logo-transparent-png-11659780101agvzsukgqz.png" alt="GitHub" height="40" style="background:white; padding:6px; border-radius:6px;" title="GitHub" />
+  <img src="https://von.gov.ng/wp-content/uploads/2025/04/GitHub_logo_2013.png" alt="GitHub" height="50" style="background:white; padding:6px; border-radius:6px;" title="GitHub" />
 
   <!-- Terraform -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Terraform_Logo.svg/2560px-Terraform_Logo.svg.png" alt="Terraform" height="40" style="background:white; padding:6px; border-radius:6px;" title="Terraform" />
