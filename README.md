@@ -51,57 +51,55 @@ Additionally, I have been exploring Docker 🐳 for containerization and Kuberne
 
 **MLOPS**
 <div>
-  <img src="https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Logo" height="35" style="background:white; padding:4px; border-radius:6px;" />
+  <img src="https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="MLOps" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="MLOps" />
   
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png" alt="Apache Airflow" height="30" style="background:white; padding:4px; border-radius:6px;" title="Apache Airflow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png" alt="Apache Airflow" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="Apache Airflow" />
   
-  <img src="https://user-images.githubusercontent.com/611655/181510038-e38f4001-c304-411e-8f45-f71554eb9763.png" alt="MLflow" height="40" style="background:white; padding:6px; border-radius:6px;" title="MLflow" />
+  <img src="https://user-images.githubusercontent.com/611655/181510038-e38f4001-c304-411e-8f45-f71554eb9763.png" alt="MLflow" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="MLflow" />
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="DVC" height="40" style="background:white; padding:6px; border-radius:6px;" title="Data Version Control (DVC)" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="DVC" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="Data Version Control (DVC)" />
   
-  <img src="https://www.astronomer.io/monogram/astronomer-monogram-RGB.svg" alt="Astronomer" height="40" style="background:white; padding:6px; border-radius:6px;" title="Astronomer" />
+  <img src="https://www.astronomer.io/monogram/astronomer-monogram-RGB.svg" alt="Astronomer" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="Astronomer" />
   
-  <img src="https://ai-infrastructure.org/wp-content/uploads/2022/08/ZenML-Logo.png" alt="Astronomer" height="40" style="background:white; padding:6px; border-radius:6px;" title="Astronomer" />
+  <img src="https://ai-infrastructure.org/wp-content/uploads/2022/08/ZenML-Logo.png" alt="ZenML" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="ZenML" />
 
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*o90n2p_UHHMTr5vV9JgBWw.jpeg" alt="Astronomer" height="40" style="background:white; padding:6px; border-radius:6px;" title="Astronomer" />
-
-  
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*o90n2p_UHHMTr5vV9JgBWw.jpeg" alt="Weights & Biases" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="Weights & Biases" />
 </div></br>
 
 **DEPLOYMENT**
 <div>
   <!-- Docker -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png" alt="Docker" height="40" style="background:white; padding:6px; border-radius:6px;" title="Docker" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png" alt="Docker" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="Docker" />
 
   <!-- Kubernetes -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" alt="Kubernetes" height="40" style="background:white; padding:6px; border-radius:6px;" title="Kubernetes" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg" alt="Kubernetes" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="Kubernetes" />
 
   <!-- Jenkins -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" alt="Jenkins" height="40" style="background:white; padding:6px; border-radius:6px;" title="Jenkins" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" alt="Jenkins" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="Jenkins" />
 
   <!-- GitHub Actions -->
-  <img src="https://me-dutour-mathieu.gallerycdn.vsassets.io/extensions/me-dutour-mathieu/vscode-github-actions/3.0.1/1596182639279/Microsoft.VisualStudio.Services.Icons.Default" alt="GitHub Actions" height="40" style="background:white; padding:6px; border-radius:6px;" title="GitHub Actions" />
+  <img src="https://me-dutour-mathieu.gallerycdn.vsassets.io/extensions/me-dutour-mathieu/vscode-github-actions/3.0.1/1596182639279/Microsoft.VisualStudio.Services.Icons.Default" alt="GitHub Actions" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="GitHub Actions" />
 
   <!-- GitHub -->
-  <img src="https://von.gov.ng/wp-content/uploads/2025/04/GitHub_logo_2013.png" alt="GitHub" height="50" style="background:white; padding:6px; border-radius:6px;" title="GitHub" />
+  <img src="https://von.gov.ng/wp-content/uploads/2025/04/GitHub_logo_2013.png" alt="GitHub" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="GitHub" />
 
   <!-- Terraform -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Terraform_Logo.svg/2560px-Terraform_Logo.svg.png" alt="Terraform" height="40" style="background:white; padding:6px; border-radius:6px;" title="Terraform" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Terraform_Logo.svg/2560px-Terraform_Logo.svg.png" alt="Terraform" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="Terraform" />
 </div></br>
 
 **CLOUD COMPUTING**
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" 
        alt="AWS" 
-       height="40" 
-       style="background:white; padding:6px; border-radius:6px;" 
+       width="80" height="25" 
+       style="background:white; padding:3px; border-radius:4px; object-fit:contain;" 
        title="Amazon Web Services (AWS)" />
 </div></br>
 
 **MONITORING TOOLS**
 <div>
-  <img src="https://miro.medium.com/v2/resize:fit:772/1*ru5TRX06wPxuqki6MDf-yg.png" alt="GitHub Actions" height="60" style="background:white; padding:6px; border-radius:6px;" title="GitHub Actions" />
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" alt="GitHub Actions" height="40" style="background:white; padding:6px; border-radius:6px;" title="GitHub Actions" />
+  <img src="https://miro.medium.com/v2/resize:fit:772/1*ru5TRX06wPxuqki6MDf-yg.png" alt="Prometheus" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="Prometheus" />
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" alt="Grafana" width="80" height="25" style="background:white; padding:3px; border-radius:4px; object-fit:contain;" title="Grafana" />
 </div>
 
 
