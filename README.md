@@ -32,6 +32,9 @@ Additionally, I have been exploring Docker 🐳 for containerization and Kuberne
 - 📚 **GeeksforGeeks:** [@abheshith_24](https://www.geeksforgeeks.org/user/abheshith_24/)  
   Browse my GeeksforGeeks profile to see my problem-solving skills in data structures, algorithms, and more. 🎓
 
+- 📚 **Medium:** [@Abheshith7](https://medium.com/@abheshith7)  
+  Explore my Medium profile and access my storeis on various techs like RAG, FineTuning and more.... 🎓
+
 
 ## Technologies I Work With 💻:
 **LANGUAGES**  
